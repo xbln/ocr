@@ -5,6 +5,7 @@
 * Error messages should be visible at the UI or sent by email when the following issues occure:
   * An empty Energieausweis form has been uploaded/sent
   * A valid Energieausweis form was sent but one or more expected pages were missing (regarding only page 1 to 4)
+  * More then 50% of the fields to be recognized are unreadable
   * The form could not be recognized as Energieausweis form
   * A wrong filetype (e.g. docx, xlsx, txt, gif, ...) was uploaded/attached to email
   * Sent email has no attachment
