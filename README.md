@@ -8,7 +8,7 @@
   * The form could not be recognized as Energieausweis form
   * A wrong filetype (e.g. docx, xlsx, txt, gif, ...) was uploaded/attached to email
   * Sent email has no attachment
-* See following sample Energieausweis form where all relevant fields that should be identified by OCR are marked red. Field names are freely selectable. Plese take this only as example and be aware that Energieausweis forms may differ. 
+* See following sample Energieausweis form where all relevant fields that should be identified by OCR are marked red. Field names are freely selectable. Please take this only as example and be aware that Energieausweis forms may differ. 
 
 ![2 Schulstr  6, Lengef 1](https://github.com/xbln/ocr/assets/27554937/dc481443-fc2e-4465-957f-a56076efea12)
 ![2 Schulstr  6, Lengef 2](https://github.com/xbln/ocr/assets/27554937/a46c89ef-60e9-4866-bffe-48693a7138ce)
